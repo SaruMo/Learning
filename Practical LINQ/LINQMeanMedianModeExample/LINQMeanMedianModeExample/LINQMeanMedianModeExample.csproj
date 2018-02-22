@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8EF1CC97-7B03-42F5-89CA-9DD01DF5983D}</ProjectGuid>
+    <ProjectGuid>{20586C8A-36B9-4581-92FB-C993E5FCA47D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LINQGroupByExample</RootNamespace>
-    <AssemblyName>LINQGroupByExample</AssemblyName>
+    <RootNamespace>LINQMeanMedianModeExample</RootNamespace>
+    <AssemblyName>LINQMeanMedianModeExample</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

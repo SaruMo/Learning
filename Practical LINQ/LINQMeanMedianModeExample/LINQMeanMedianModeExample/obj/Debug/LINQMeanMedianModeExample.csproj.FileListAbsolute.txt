@@ -1,0 +1,7 @@
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\bin\Debug\LINQMeanMedianModeExample.exe.config
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\bin\Debug\LINQMeanMedianModeExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\bin\Debug\LINQMeanMedianModeExample.pdb
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\obj\Debug\LINQMeanMedianModeExample.csprojResolveAssemblyReference.cache
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\obj\Debug\LINQMeanMedianModeExample.csproj.CoreCompileInputs.cache
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\obj\Debug\LINQMeanMedianModeExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQMeanMedianModeExample\LINQMeanMedianModeExample\obj\Debug\LINQMeanMedianModeExample.pdb

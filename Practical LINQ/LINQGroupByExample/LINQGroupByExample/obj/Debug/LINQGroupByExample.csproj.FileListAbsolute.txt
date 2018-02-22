@@ -1,0 +1,7 @@
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\obj\Debug\LINQGroupByExample.csprojResolveAssemblyReference.cache
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\obj\Debug\LINQGroupByExample.csproj.CoreCompileInputs.cache
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\bin\Debug\LINQGroupByExample.exe.config
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\bin\Debug\LINQGroupByExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\bin\Debug\LINQGroupByExample.pdb
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\obj\Debug\LINQGroupByExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQGroupByExample\LINQGroupByExample\obj\Debug\LINQGroupByExample.pdb

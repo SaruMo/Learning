@@ -1,0 +1,7 @@
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\obj\Debug\LINQSortingExample.csprojResolveAssemblyReference.cache
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\obj\Debug\LINQSortingExample.csproj.CoreCompileInputs.cache
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\bin\Debug\LINQSortingExample.exe.config
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\bin\Debug\LINQSortingExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\bin\Debug\LINQSortingExample.pdb
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\obj\Debug\LINQSortingExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQSortingExample\LINQSortingExample\obj\Debug\LINQSortingExample.pdb

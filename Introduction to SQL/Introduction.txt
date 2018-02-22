@@ -1,0 +1,9 @@
+SQL Structured Query Language. Has a particular purpose. To manipulate sets of data. Typically a relational database.
+
+Database - a container that helps us organise data in a logical way. Logical organisation aids manipulation.
+
+Relational database - how data relates to each other. (tuple relational calculus).
+
+Data is stored in a table. A table is similar to a spreadsheet. It has columns. Columns will have restrictions and can be required or not.
+
+database design controls the types of questions you ask. SQL will ask the questions.

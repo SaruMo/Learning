@@ -1,0 +1,6 @@
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ.Biz\bin\Debug\DataBindingWithLINQ.Biz.dll
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ.Biz\bin\Debug\DataBindingWithLINQ.Biz.pdb
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ.Biz\obj\Debug\DataBindingWithLINQ.Biz.csprojResolveAssemblyReference.cache
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ.Biz\obj\Debug\DataBindingWithLINQ.Biz.csproj.CoreCompileInputs.cache
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ.Biz\obj\Debug\DataBindingWithLINQ.Biz.dll
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ.Biz\obj\Debug\DataBindingWithLINQ.Biz.pdb

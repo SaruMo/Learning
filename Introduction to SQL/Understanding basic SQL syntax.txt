@@ -1,0 +1,20 @@
+SQL statement is an expression that tells the database what you wan it to do.
+
+SELECT identifier - select clause. The data we want
+FROM identifier - from clause. The table
+
+SELECT Allows you to retrieve one or more rows fro one or more tables.
+The select clause can select specific columns within one or more tables
+SELECT firstName FROM people
+
+INSERT adds one or more rows into a single table.
+INSERT INTO contacts(firstName, secondName) VALUES(aaron, clarke);
+theres a values clause.
+
+UPDATE modifires one or more rows in a table.
+UPDATE contacts SET lastName='Clarke' WHERE id=1
+If there was no WHERE clause all lastNames would be updated.
+
+DELETE remove one or more rows from 1 table.
+DELETE FROM Contacts WHERE id = 1
+

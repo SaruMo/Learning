@@ -1,0 +1,12 @@
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\bin\Debug\DataBindingWithLINQ.exe.config
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\bin\Debug\DataBindingWithLINQ.exe
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\bin\Debug\DataBindingWithLINQ.pdb
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\bin\Debug\DataBindingWithLINQ.Biz.dll
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\bin\Debug\DataBindingWithLINQ.Biz.pdb
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.UI.csprojResolveAssemblyReference.cache
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.Form1.resources
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.Properties.Resources.resources
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.UI.csproj.GenerateResource.Cache
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.UI.csproj.CoreCompileInputs.cache
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.exe
+D:\Education\PluralSight\Practical LINQ\DataBindingWithLINQ\DataBindingWithLINQ\obj\Debug\DataBindingWithLINQ.pdb

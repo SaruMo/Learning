@@ -1,0 +1,7 @@
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\bin\Debug\LINQMethodSyntaxExample.exe.config
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\bin\Debug\LINQMethodSyntaxExample.exe
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\bin\Debug\LINQMethodSyntaxExample.pdb
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\obj\Debug\LINQMethodSyntaxExample.csprojResolveAssemblyReference.cache
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\obj\Debug\LINQMethodSyntaxExample.csproj.CoreCompileInputs.cache
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\obj\Debug\LINQMethodSyntaxExample.exe
+C:\Users\uk-aclarke\Documents\LINQ\LINQMethodSyntaxExample\LINQMethodSyntaxExample\obj\Debug\LINQMethodSyntaxExample.pdb

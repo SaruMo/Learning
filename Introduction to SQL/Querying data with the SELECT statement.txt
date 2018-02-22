@@ -1,0 +1,1 @@
+think of SELECT statement as a question you're asking the database.

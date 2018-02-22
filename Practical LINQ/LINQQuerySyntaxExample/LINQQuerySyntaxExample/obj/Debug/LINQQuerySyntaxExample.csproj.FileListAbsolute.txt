@@ -1,0 +1,7 @@
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\bin\Debug\LINQQuerySyntaxExample.exe.config
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\bin\Debug\LINQQuerySyntaxExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\bin\Debug\LINQQuerySyntaxExample.pdb
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\obj\Debug\LINQQuerySyntaxExample.csprojResolveAssemblyReference.cache
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\obj\Debug\LINQQuerySyntaxExample.csproj.CoreCompileInputs.cache
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\obj\Debug\LINQQuerySyntaxExample.exe
+D:\Education\PluralSight\Practical LINQ\LINQQuerySyntaxExample\LINQQuerySyntaxExample\obj\Debug\LINQQuerySyntaxExample.pdb
